@@ -4,11 +4,13 @@
 #include <iostream>
 #include "challenge1.h"
 #include "challenge2.h"
+#include "challenge3.h"
 
 int main()
 {
     challenge1();
-    challenge2();
+    // challenge2();
+    // challenge3();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
