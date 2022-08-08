@@ -5,12 +5,14 @@
 #include "challenge1.h"
 #include "challenge2.h"
 #include "challenge3.h"
+#include "challenge4.h"
 
 int main()
 {
     challenge1();
     // challenge2();
     // challenge3();
+    challenge4();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
