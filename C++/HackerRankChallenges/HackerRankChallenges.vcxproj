@@ -24,6 +24,7 @@
     <ProjectGuid>{6c81a9ed-ddb4-4d61-a65c-f7425d5f2502}</ProjectGuid>
     <RootNamespace>HackerRankChallenges</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>HackerRankChallenges-C++</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

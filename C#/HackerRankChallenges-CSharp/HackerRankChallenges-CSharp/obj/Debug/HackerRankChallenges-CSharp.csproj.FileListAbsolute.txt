@@ -1,0 +1,8 @@
+C:\Users\Liam\Code\HackerRankChallenges\C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\bin\Debug\HackerRankChallenges-CSharp.exe.config
+C:\Users\Liam\Code\HackerRankChallenges\C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\bin\Debug\HackerRankChallenges-CSharp.exe
+C:\Users\Liam\Code\HackerRankChallenges\C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\bin\Debug\HackerRankChallenges-CSharp.pdb
+C:\Users\Liam\Code\HackerRankChallenges\C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\obj\Debug\HackerRankChallenges-CSharp.csproj.AssemblyReference.cache
+C:\Users\Liam\Code\HackerRankChallenges\C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\obj\Debug\HackerRankChallenges-CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Liam\Code\HackerRankChallenges\C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\obj\Debug\HackerRankChallenges-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Code\HackerRankChallenges\C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\obj\Debug\HackerRankChallenges-CSharp.exe
+C:\Users\Liam\Code\HackerRankChallenges\C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\obj\Debug\HackerRankChallenges-CSharp.pdb
