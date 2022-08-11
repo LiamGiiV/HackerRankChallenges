@@ -13,9 +13,9 @@ void challenge4()
 
 	int result = scanf("%d\n%d", &lowerBoundry, &upperBoundry);
 
-	for (int index = lowerBoundry; index < upperBoundry; index++)
+	for (int index = lowerBoundry; index <= upperBoundry; index++)
 	{
-		if (index <= 9 && index > 0)
+		if (index > 0 && index < 10)
 		{
 			printf(integerToEnglish(index).c_str());
 		}
