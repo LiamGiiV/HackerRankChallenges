@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HackerRankChallenges-C++", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankChallenges-CSharp", "C#\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp\HackerRankChallenges-CSharp.csproj", "{237DB564-291C-4FBF-B498-18F3C3B1526E}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackerRankChallenges-Python", "HackerRankChallenges-Python\HackerRankChallenges-Python.pyproj", "{6E73B634-26D3-4CC8-B4F7-EA1D66A08DA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,12 @@ Global
 		{237DB564-291C-4FBF-B498-18F3C3B1526E}.Release|x64.Build.0 = Release|Any CPU
 		{237DB564-291C-4FBF-B498-18F3C3B1526E}.Release|x86.ActiveCfg = Release|Any CPU
 		{237DB564-291C-4FBF-B498-18F3C3B1526E}.Release|x86.Build.0 = Release|Any CPU
+		{6E73B634-26D3-4CC8-B4F7-EA1D66A08DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E73B634-26D3-4CC8-B4F7-EA1D66A08DA2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6E73B634-26D3-4CC8-B4F7-EA1D66A08DA2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E73B634-26D3-4CC8-B4F7-EA1D66A08DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E73B634-26D3-4CC8-B4F7-EA1D66A08DA2}.Release|x64.ActiveCfg = Release|Any CPU
+		{6E73B634-26D3-4CC8-B4F7-EA1D66A08DA2}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
