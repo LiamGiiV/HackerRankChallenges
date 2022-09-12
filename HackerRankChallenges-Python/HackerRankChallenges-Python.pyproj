@@ -23,6 +23,10 @@
   <ItemGroup>
     <Compile Include="challenge2.py" />
     <Compile Include="challenge3.py" />
+    <Compile Include="challenge4.py" />
+    <Compile Include="challenge5.py" />
+    <Compile Include="challenge6.py" />
+    <Compile Include="challenge7.py" />
     <Compile Include="HackerRankChallenges_Python.py" />
     <Compile Include="challenge1.py" />
   </ItemGroup>
