@@ -8,6 +8,7 @@ import challenge7
 import challenge8
 import challenge9
 import challenge10
+import challenge11
 
 challenge1.Challenge_1()
 challenge2.Challenge_2()
@@ -19,3 +20,4 @@ challenge7.Challenge_7()
 challenge8.Challenge_8()
 challenge9.Challenge_9()
 challenge10.Challenge_10()
+challenge11.Challenge_11()
